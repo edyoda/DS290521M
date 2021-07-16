@@ -1,0 +1,9 @@
+pytest is a third party open source module.
+We generally use it for unit testing.
+unit test =>you can test individual parts of code.
+like a function whose functionality you want to test.
+class methods
+
+In cmd: pip install pytest
+# by default we have unittest module installed in python, but that is very limited and not easy to use.
+Python community generally uses pytest for unit testing.
